@@ -7,6 +7,7 @@ class UI_MainWindow(object)
 
 import sys
 
+
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     mainWindow = QMainWindow()

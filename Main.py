@@ -24,6 +24,7 @@ def EnglishWordRecord(LibraryName, Word):
     return
 
 
+
 print(os.getcwd())  # 获取当前工作目录
 EnglishWordRecord("EWordLibrary.txt", "test2, this is a test2")
 
